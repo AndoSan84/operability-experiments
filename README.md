@@ -1,3 +1,6 @@
+> **This repository has moved.** Its full history and tags are now in
+> [github.com/AndoSan84/operability](https://github.com/AndoSan84/operability), folder `experiments/`.
+
 # Operability — Experiments A and B (revision)
 
 Pre-registered experiments for the revision of the Operability paper. Everything is under git:
